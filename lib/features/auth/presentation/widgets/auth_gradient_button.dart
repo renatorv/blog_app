@@ -7,15 +7,16 @@ class AuthGradientButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      decoration: const BoxDecoration(
-        gradient: LinearGradient(
+      decoration: BoxDecoration(
+        gradient: const LinearGradient(
           colors: [
             AppPalete.gradient1,
             AppPalete.gradient2,
           ],
           begin: Alignment.bottomLeft,
-          end: Alignment.topRight
+          end: Alignment.topRight,
         ),
+        borderRadius: BorderRadius.circular(10),
       ),
       child: ElevatedButton(
         onPressed: () {},

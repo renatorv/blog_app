@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # INFOS:
 - https://www.youtube.com/watch?v=ELFORM9fmss
-- TIME: 45
+- TIME: 1h
 
 
 # CÓDIGO
