@@ -17,8 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 # INFOS:
 - https://www.youtube.com/watch?v=ELFORM9fmss
-- TIME: 1h
+- TIME: 1h35
 
 
 # CÓDIGO
 - https://github.com/RivaanRanawat/blog-app-clean-architecture/blob/master/lib/core/theme/app_pallete.dart
+
+# SENHA DATABASE SUPABASE
+Blog App
+vls%86587_blog
