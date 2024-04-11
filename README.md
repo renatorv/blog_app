@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # INFOS:
 - https://www.youtube.com/watch?v=ELFORM9fmss
-- TIME: 1h48
+- TIME: 1h51
 
 
 # CÓDIGO
@@ -26,3 +26,6 @@ samples, guidance on mobile development, and a full API reference.
 # SENHA DATABASE SUPABASE
 Blog App
 vls%86587_blog
+
+# video bloc
+https://youtu.be/ELFORM9fmss
